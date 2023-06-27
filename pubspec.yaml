@@ -5,8 +5,8 @@ repository: https://github.com/lotum/lottie_native
 issue_tracker: https://github.com/lotum/lottie_native/issues
 
 environment:
-  sdk: ^2.19.0
-  flutter: '>=3.7.0'
+  sdk: ^2.17.0
+  flutter: '>=3.3.10'
 
 dependencies:
   flutter:
